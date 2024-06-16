@@ -1,2 +1,2 @@
 console.log("indexconfig.js");
-console.log("version2 updated");
+console.log("version13.updated");
